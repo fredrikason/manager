@@ -1,9 +1,5 @@
 package order.actors
 
-/**
-  * Created by Fredrik on 10/02/16.
-  */
-
 import org.scalatest._
 
 class OrderManagerTest extends FlatSpec with Matchers {
